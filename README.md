@@ -1,5 +1,6 @@
 # StockSense
 
-StockSense is an Android app aimed at providing users with real-time stock market data to help them track their favourite stocks.
+Stock Portfolio Application, with Portfolio, Watchlist, News, and Alert.
+Back-end API is currently not discontinued and not working.
 
 Makes use of ActionBarSherlock and achartengine
